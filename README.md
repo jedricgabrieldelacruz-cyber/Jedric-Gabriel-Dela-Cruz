@@ -1,51 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 30px;
-    }
-    h1 {
-      color: #333;
-    }
-    .section-title {
-      font-weight: bold;
-      margin-top: 20px;
-    }
-    ul {
-      margin-top: 5px;
-    }
-  </style>
-</head>
+<h1>Hi There!</h1>
 
-<body>
+<h2>Name</h2>
+<p><strong>Raiza M. Visaya</strong></p>
 
-  <h1>Hello!</h1>
+<h2>Education</h2>
+<ul>
+  <li>2nd year student of Bachelor of Science in Information Technology</li>
+  <li>Studying at New Era University</li>
+</ul>
 
-  <p class="section-title">Name</p>
-  <p><strong>Jedric Gabriel H. Dela Cruz</strong></p>
+<h2>Certifications</h2>
+<ul>
+  <li>
+    SQL and Relational Databases 101  
+    <a href="https://courses.cognitiveclass.ai/certificates/3b6ae97544b942ccb257b91a5168f67d">View Certificate</a>
+  </li>
+</ul>
 
-  <p class="section-title">Education</p>
-  <ul>
-    <li>BS Information Technology</li>
-    <li>New Era University</li>
-  </ul>
-
-  <p class="section-title">Certifications</p>
-  <ul>
-    <li>
-      SQL and Relational Databases 101 
-      <a href="">View Certificate</a>
-    </li>
-  </ul>
-
-  <p class="section-title">Skills</p>
-  <ul>
-    <li>UI/UX Design</li>
-    <li>HTML, CSS</li>
-  </ul>
-
-</body>
-</html>
+<h2>Skillsets</h2>
+<ul>
+  <li>UI/UX Design</li>
+  <li>HTML, CSS</li>
+</ul>
