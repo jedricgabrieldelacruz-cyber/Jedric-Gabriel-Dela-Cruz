@@ -1,6 +1,5 @@
 <h1>Hello!</h1>
 
-<h2>Name</h2>
 <p><strong>Jedric Gabriel H. Dela Cruz</strong></p>
 
 <h2>Education</h2>
