@@ -1,12 +1,12 @@
 <h1>Hello! This is Jedric Gabriel H. Dela Cruz</h1>
 
-<h2>Education</h2>
+<h2>My Education</h2>
 <ul>
   <li>2nd year student of Bachelor of Science in Information Technology</li>
   <li>Studying at New Era University</li>
 </ul>
 
-<h2>Certifications</h2>
+<h2>My Certifications</h2>
 <ul>
   <li>
     SQL and Relational Databases 101  
