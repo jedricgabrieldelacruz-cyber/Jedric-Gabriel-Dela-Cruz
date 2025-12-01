@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Profile</title>
-  <style>
     body {
       font-family: Arial, sans-serif;
       margin: 30px;
