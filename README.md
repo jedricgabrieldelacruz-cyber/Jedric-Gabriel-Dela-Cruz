@@ -37,7 +37,7 @@
   <ul>
     <li>
       SQL and Relational Databases 101 
-      <a href="https://courses.cognitiveclass.ai/certificates/1e585ba944e148a7b992f7434bf062f5"> SQL and Relational Databases 101 </a>
+      <a href="">View Certificate</a>
     </li>
   </ul>
 
